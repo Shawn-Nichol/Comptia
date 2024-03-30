@@ -1,10 +1,21 @@
-Risk Avoidance: In risk migigation, the practice of ceasing activity that presents risk. 
+Risk Avoidance: In risk mitigation, the practice of ceasing an activity that presents a risk. 
 
-Risk Acceptance: The response of determining that a risk is within the organizations appetite and no countermeasures other than ongoing monitoring is needed. 
+Risk Acceptance: The response of determining that risk is within the organization's appetite and that no countermeasures other than ongoing monitoring are needed. 
 
-Risk Migitagtion: The response of reducing risk to fit within an organizations willingness to accept risk. 
+Risk Mitigation: The response of reducing risk to fit within an organization's willingness to accept risk. 
 
-Risk Tranfer: In risk migitation, the response of moving or sharing the responnsibility of risk to another entity, such as by purchasing cybersecurity insurance. 
+Risk Transfer: In risk meditation, the response of moving or sharing the responsibility of risk with another entity, such as by purchasing cybersecurity insurance. 
 
-Threat Modeling: The process of identifying and assessing the posible threat actors and attack vectors that pose a risk to the security of an app, network or other system. 
+Threat Modeling: The process of identifying and assessing the possible threat actors and attack vectors that pose a risk to the security of an app, network, or other system. 
 
+# Security Controls
+Technical: A category of security control that is implemented as a system. Technical controls may also be described as logical controls.
+Operational: the control is implemented primarily by people rather than systems. 
+Managerial: The control gives oversight of the information system. 
+
+# Security Control Functional Types
+Preventative: A security control that acts before an incident to eliminate or reduce the likelihood that an attack can succeed. 
+Detective: A type of security control that acts during an incident to identify or record that it is happening. 
+Corrective: A type of security control that acts after an incident to eliminate or minimize its impact. 
+Compensating: A security measure that takes on risk mitigation when a primary control fails or cannot completely meet expectations. 
+Responsive: A type of security control that serves to direct corrective actions after an incident has been confirmed. 
