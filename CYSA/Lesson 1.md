@@ -38,3 +38,20 @@ Edge discovery: Any device connected to the Internet
 - Network segmentation
 - Removing unnecessary components
 - Employee training
+
+# Patch Management consideration
+- Individual task-specific team responsible for reviewing
+- Mechanism to patch operating systems and all applications running on them.
+- Assign updates into urgent, important, and noncritical categories.
+- Test environment where urgent and important patches can be installed and tested.
+- Detailed logging to support monitoring and troubleshooting of patch deployment activities
+- Immediate push for critical systems
+- A routine schedule for the rollout of noncritical patches.
+
+Change Management: Process through which information system configuration changes are implemented as part of the organization's overall configuration management efforts. 
+
+# Summary
+- Policies are produced by government teams and dictate how work tasks are performed.
+- Risk management is a specialized discipline that advises governance teams.
+- Attack surfaces are complicated and require continuous management and monitoring
+- Patch and configuration management play a significant role in protecting endpoints. 
