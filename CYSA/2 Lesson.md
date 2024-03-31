@@ -8,5 +8,5 @@ Internal sources.
 
 # Threat Intelligence data 
 Timelines: The speed at which threat data is collected and disseminated to ensure it is up-to-date and relevant. 
-Relevancy: The usefulness of the data in the context of a specific threat, as well as the actionable insights and meaningful context it provides. 
+Relevancy: The usefulness of the data in the context of a specific threat and the actionable insights and meaningful context it provides. 
 Accuracy: The reliability and correctness of the thread data. 
