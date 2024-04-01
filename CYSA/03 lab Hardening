@@ -1,0 +1,62 @@
+#  Driver install
+Did Driver install through device manager and reinstall. 
+
+# Manipulate host file name
+Performed
+- inserted a false entry into a host file
+- confirmed a false entry  entry that resolves a functiuonal IP address
+- Removed the false entry from the host file
+- Evaulated name resolution before and after host file alterations
+
+
+Kali command
+access website. 
+```
+wget juiceshop.local
+```
+Edit File
+```
+nano hosts
+```
+
+# Remove unneed applications and services. 
+Performed
+- Removed unwanted application with program features (Don't need to repeat this process)
+- Removed an insecure service with Service manager Roles and Features Wizard (Kind of usefull)
+
+# Firewall settings
+Block ICMP communication a PC, this prevents the system from returning ping requests. 
+
+# Set file permissions on Linux
+Performed
+- Set permission using sybmolic notation with chmod
+- Set permissinos using ocatal notation with chmod
+
+Linux permissions
+- Starts with dash is a file
+- starts with a d is a directory
+
+Then there are three groups of permissons
+1. User owner
+2. Owner
+3. Everyone else
+
+Permissons are 
+- Read (R or 4)
+- Write (w o r 2)
+- Execute (X or 1)
+
+The permission is granted or assigned when the letter is present in the permission listing, but when there is a dash it means the permission is withheld or denied. 
+RWX - 421
+
+examples
+
+Octal,  
+- User Owner - Read, Write
+- Owner - Read
+- Everyone else - Read
+```
+chmod 644 testfile.txt
+```
+
+chmod u+rwx,g+x-rw,o-rwx
