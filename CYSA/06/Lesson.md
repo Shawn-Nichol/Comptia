@@ -24,4 +24,19 @@ CCE: Common Configuration Enumeration, Scheme for provisioning secure configurat
 
 CVSS Vector string: A string that provides more context around the scoring metrics used to calculate the overall CVSS score. The string is broken into fields that include the vulnerability identifier, the impact, the environmental concerns, and the additional information. 
 
+# Vulnerability Scan results
+False Positive: When a Vulnerability scan incorrectly indicates that a vulnerability or misconfiguration is present when it is not.
 
+True Positive: When a vulnerability scan correctly identifies a vulnerability. 
+
+False Negative: When a vulnerability scan incorrectly identifies that a vulnerability does not exist. 
+
+True Negative: A vulnerability scan that correctly indicates that a system or device does not have a vulnerability. 
+
+# Vulnerability score factors
+Availability of patches: 
+Impact of Vulnerability: 
+Level of sophistication of threat actors: The likelihood a threat actor can exploit a vulnerability. 
+Asset value: 
+Weaponization: Assesses the likelihood that an attacker will be able to weaponize a vulnerability to achieve their objectives. 
+Exploitability: A vulnerability with high exploitability is more likely to be targeted by an attacker and therfore requires urgent attention. conversely, a vulnerability with low explooitability may be less urgent as it is less likely to be exploited. 
