@@ -76,18 +76,25 @@ Restricted Virtual Desktop Infrastructure: Incorporating CLP features within the
 Data Classification blocking: Use metadata or other mechanisms to tag data with its classification in order to limit how it can be accessed and used. 
 
 # Logging Levels
-Debug: Used for debugging purposes. 
-INFO: Used for informative messages
-Warning: used to indicate a potential problem
-Error: Used to indicate a serious problem
-Critical: Used to indicate a critical problem. 
+- Debug: Used for debugging purposes. 
+- INFO: Used for informative messages
+- Warning: used to indicate a potential problem
+- Error: Used to indicate a serious problem
+- Critical: Used to indicate a critical problem. 
 
 Syslog uses eight logging levels
 0 Emergency: System is unusable
+
 1 Alert: Immediate action required
+
 2 Critical: critical conditions
+
 3 Error: Error condition
+
 4 Warning warning conditions
+
 5 Notice: Normal but significant conditions
+
 6 Information: Information message
+
 7 Debug: Message helpful for debugging. 
